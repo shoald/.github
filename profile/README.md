@@ -4,5 +4,5 @@
 
 v0 is in the works.
 
-* Follow this org for updates.
-* Reach us at shoaldlabs@gmail.com.
+* Follow this org for updates
+* Reach us at hello@shoald.com
