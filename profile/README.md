@@ -6,4 +6,4 @@ v0 is in the works.
 
 - Follow this org for updates
 - Reach us at hello@shoald.com
-- Report security issues to security@shoald.com ([security policy](https://github.com/shoald/.github/blob/main/.github/SECURITY.md))
+- Found a security issue? See our [security policy](https://github.com/shoald/.github/blob/main/.github/SECURITY.md)
