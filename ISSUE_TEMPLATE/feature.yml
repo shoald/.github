@@ -1,0 +1,49 @@
+name: Feature request
+description: Suggest something new or an improvement.
+labels: ["feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem does this solve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should we build? Rough ideas are fine.
+    validations:
+      required: true
+  - type: textarea
+    id: done-when
+    attributes:
+      label: Done when
+      description: What will be true once this is built?
+      placeholder: A venue owner can schedule a playlist to start at a set time.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - player
+        - edge
+        - cloud
+        - panel
+        - not sure
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Other ways to solve this you've considered, if any.
+  - type: checkboxes
+    id: adr
+    attributes:
+      label: Architecture
+      options:
+        - label: This may need an ADR
