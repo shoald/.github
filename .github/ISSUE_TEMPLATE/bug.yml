@@ -54,7 +54,7 @@ body:
         - player
         - edge
         - cloud
-        - panel
+        - cms
         - not sure
     validations:
       required: true

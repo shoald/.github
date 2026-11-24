@@ -12,7 +12,7 @@ Include as much of this as you can:
 
 - What the problem is and what someone could do with it
 - Steps to reproduce it
-- Which part is affected (player, edge, cloud, panel, or website) and its version
+- Which part is affected (player, edge, cloud, cms, or website) and its version
 - Any proof-of-concept code, logs, or screenshots
 
 ## What happens next

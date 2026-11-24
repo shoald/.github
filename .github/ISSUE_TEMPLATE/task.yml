@@ -23,6 +23,6 @@ body:
         - player
         - edge
         - cloud
-        - panel
+        - cms
         - docs
         - not sure
